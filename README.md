@@ -42,9 +42,9 @@ Simply open the `index.html` file in your favorite browser to view the app.
 ---
 
 ## 🖼️ **Preview**  
+![Screenshot 2025-01-01 165007](https://github.com/user-attachments/assets/765a24f1-1ad7-4c50-ac57-e90dcbdedbe1)
 
-![Horizon-Check Screenshot](#)  
-*(Add a screenshot or GIF of your app here to make it more engaging.)*
+!Horizon-Check Screenshot
 
 ---
 
