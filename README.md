@@ -4,7 +4,7 @@
 Your go-to weather web app, built with simplicity and elegance using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🔗 **Live Demo**  
-Explore Horizon-Check Now ! ([Click Here]([https://debajyoti-3.github.io/Horizon-Check/](https://horizon-check.netlify.app/))
+Explore Horizon-Check Now ! ([Click Here]((https://horizon-check.netlify.app/))
 
 ---
 
